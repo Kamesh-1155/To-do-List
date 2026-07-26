@@ -24,18 +24,7 @@ A modern and responsive task management application built with **React** and **V
 
 ## 🖼️ Screenshots
 
-> Add screenshots of your application here after uploading them to GitHub.
-
-Example:
-
-```
-assets/
-   dashboard.png
-```
-
-```md
-![Dashboard](assets/dashboard.png)
-```
+<img width="1917" height="926" alt="image" src="https://github.com/user-attachments/assets/9a407b2b-d215-42ac-a860-2be1e5e96b56" />
 
 ---
 
