@@ -1,0 +1,60 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+/* Reset */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* Variables */
+
+:root{
+
+    --primary:#1A312C;
+    --secondary:#428475;
+    --accent:#89D7B7;
+    --cream:#FFF4E1;
+
+    --background:#F8FBF8;
+
+    --white:#FFFFFF;
+
+    --text:#1A312C;
+
+    --lightText:#6E7C77;
+
+    --shadow:0 15px 40px rgba(0,0,0,.08);
+
+    --radius:20px;
+
+}
+
+/* Body */
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:var(--background);
+
+    color:var(--text);
+
+}
+
+button{
+
+    font-family:'Poppins',sans-serif;
+
+    cursor:pointer;
+
+}
+
+input,
+textarea,
+select{
+
+    font-family:'Poppins',sans-serif;
+}

@@ -1,0 +1,46 @@
+.dashboard{
+
+    min-height:100vh;
+
+    padding:35px;
+
+    background:var(--background);
+
+}
+
+.dashboard-container{
+
+    max-width:1450px;
+
+    margin:auto;
+
+}
+
+.dashboard-content{
+
+    display:grid;
+
+    grid-template-columns:2fr 360px;
+
+    gap:30px;
+
+    margin-top:30px;
+}
+
+.left-panel{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:25px;
+}
+
+.right-panel{
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:25px;
+}
